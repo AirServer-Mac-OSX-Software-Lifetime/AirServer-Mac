@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/160/849/png-transparent-airserver-macos-bigsur-icon.png" width="200"><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEjYPEgQCv7FsXVxmVTC16kEiL4ihnc5wpA&s" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/airserver">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 
-<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/02/airserver-general.png" width="500">
+<img src="https://imgproxy.eneba.games/LjacCY0kK5lpU_DEC6DYXTRg86l_LZUkz5R8MdsGwfw/rs:fit:350/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy85/Y2kzcTFVYktuanBh/Y0JCN1BjcHdpWmhQ/c1ZJekRZVGs1bDFZ/STRFNlVvLmpwZw" width="500">
 
 </td>
 
